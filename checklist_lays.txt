@@ -1,0 +1,39 @@
+Environment	Ubuntu 20.04.3, Firefox 96.0 (64-bit)	
+Test date	18.03.2022	
+Tester	Lаna S.-S.	
+Home page https://lays.ru/		
+Checking	Result	Comment
+Header		
+Clickable icon “Lay`s”	fail	the page does not reload, icon clickable when it opened in a new tab 
+Clickable button “O LAY`S”	ok	
+Clickable button “Продукты”	ok	
+Clickable button “Акции”	ok	
+Clickable button “Обратная связь”	ok	
+Footer	ok	
+Clickable button “YouTube”	ok	
+Clickable button “vk.com”	ok	
+Clickable button “Instagram”	ok	Instagram blocked due to the decision of the Russian authorities 
+Clickable button “Facebook”	ok	Facebook blocked due to the decision of the Russian authorities 
+Clickable button with hotline phone	ok	
+Clickable icon “Lay`s”	fail	the page does not reload, icon clickable when it opened in a new tab 
+Clickable button “Обратная связь”	ok	
+Home page menu		
+Right-left arrows to browse top products	ok	view looped 
+Clickable product “Из печи”	ok	the product view opens in a new tab 
+Clickable product “Nature”	ok	the product view opens in a new tab 
+Section “С чего начинается LAY'S®?”		
+Clickable arrows down to the section	ok	
+Clickable video in the section	ok	
+Visible video in the section	ok	
+Clickable button “Узнать больше”	ok	
+Section “Products”		
+Right-left arrows to browse products	ok	
+Clickable button “Подробнее” in the products “Новинки”	ok	
+Clickable button “Подробнее” in the product “Nature”	ok	
+Clickable button “Подробнее” in the product “LAY`S”	ok	
+Clickable button “Подробнее” in the product “Рифленые”	ok	
+Clickable button “Подробнее” in the product “Из печи”	ok	
+Clickable button “Подробнее” in the product “STIX”	ok	
+Clickable button “Подробнее” in the product “MAXX”	ok	
+Clickable button “Подробнее” in the product “STAX”	ok	
+
