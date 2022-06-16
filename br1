@@ -1,0 +1,16 @@
+In the 'POST  /users /' is not registered with the phone number
+
+	Description:
+	 It’s not possible to sign up with a phone number In the 'POST  /users /' 
+	
+	Steps to reproduce:
+	 1. Pre-register with phone number ( POST exist, POST verification)
+
+	 2.  Sign up with this phone number (POST users)
+
+	Actual result:
+  	 {"user": "Temporary user does not exits or not approved"} 
+	 Status 404 (Not found)
+
+	Expected result:
+	 Registration of user data by phone number is completed successfully
